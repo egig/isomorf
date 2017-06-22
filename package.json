@@ -1,6 +1,6 @@
 {
-  "name": "qraved-ui",
-  "version": "1.0.0",
+  "name": "isomorf",
+  "version": "0.1.0",
   "main": "index.js",
   "dependencies": {
     "axios": "^0.16.1",
